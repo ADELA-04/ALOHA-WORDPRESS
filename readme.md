@@ -17,28 +17,29 @@
  - [2.2. Chức năng](#2.2)
 
    - [2.2.1.Admin ](#2.2.1)
-      [2.2.1.1. Quản lý nội dung:](#2.2.1.1)
+     
+      - [2.2.1.1. Quản lý nội dung:](#2.2.1.1)
     
-      [2.2.1.2.Quản lý người dùng](#2.2.1.2)
+      - [2.2.1.2.Quản lý người dùng](#2.2.1.2)
     
-     [2.2.1.3.Quản lý giao diện](#2.2.1.3)
+     - [2.2.1.3.Quản lý giao diện](#2.2.1.3)
     
-       [2.2.1.4.Cài đặt và quản lý plugin](#2.2.1.4)
+     - [2.2.1.4.Cài đặt và quản lý plugin](#2.2.1.4)
     
-       [2.2.1.5.Quản lý cài đặt tổng thể](#2.2.1.5)
+     - [2.2.1.5.Quản lý cài đặt tổng thể](#2.2.1.5)
 
 
    - [2.2.2. User ](#2.2.2)
      
-     [2.2.2.1. Tìm kiếm sản phẩm](#2.2.2.1)
+     - [2.2.2.1. Tìm kiếm sản phẩm](#2.2.2.1)
    
-      [2.2.2.2. Quản lý giỏ hàng và thanh toán](#2.2.2.2)
+     -  [2.2.2.2. Quản lý giỏ hàng và thanh toán](#2.2.2.2)
 
-      [2.2.2.3.  Quản lý tài khoản cá nhân](#2.2.2.3)
+     -  [2.2.2.3.  Quản lý tài khoản cá nhân](#2.2.2.3)
 
-      [2.2.2.4. Tương tác và đánh giá sản phẩm](#2.2.2.4)
+      - [2.2.2.4. Tương tác và đánh giá sản phẩm](#2.2.2.4)
 
-      [2.2.2.5. Các chức năng khác](#2.2.2.5)
+     - [2.2.2.5. Các chức năng khác](#2.2.2.5)
 
  [3. Cài đặt ](#3)
  
