@@ -128,19 +128,19 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 #### 2.2.1.1. Quản lý nội dung:
 + Tạo, chỉnh sửa, xóa bài viết, trang, danh mục, thẻ tags.
 + Quản lý phương tiện như hình ảnh, video, tệp đính kèm.
-+ <a name = "2.2.1.2"></a>
+  <a name = "2.2.1.2"></a>
 #### 2.2.1.2.Quản lý người dùng:
 + Thêm, chỉnh sửa, xóa các tài khoản người dùng.
 + Gán các vai trò và quyền hạn khác nhau (admin, editor, author, contributor, subscriber).
-+ <a name = "2.2.1.3"></a>
+  <a name = "2.2.1.3"></a>
 #### 2.2.1.3.Quản lý giao diện:
 + Cài đặt, kích hoạt, tùy chỉnh các giao diện (themes).
 + Quản lý các widget, menu, header, footer.
-+ <a name = "2.2.1.4"></a>
+  <a name = "2.2.1.4"></a>
 #### 2.2.1.4.Cài đặt và quản lý plugin:
 + Tìm kiếm, cài đặt, cập nhật, vô hiệu hóa các plugin.
 + Cấu hình các tùy chọn và thiết lập của plugin.
-+ <a name = "2.2.1.5"></a>
+  <a name = "2.2.1.5"></a>
 #### 2.2.1.5.Quản lý cài đặt tổng thể:
 + Thay đổi các thiết lập chung của website như tên, địa chỉ, múi giờ, v.v.
 + Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
@@ -158,7 +158,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f6822aef-953d-4107-a42d-961932d5e10b)
 
 + Xem chi tiết sản phẩm, ảnh, mô tả.
-+ <a name = "2.2.2.2"></a>
+  <a name = "2.2.2.2"></a>
 #### 2.2.2.2. Quản lý giỏ hàng và thanh toán:
 + Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/cd0ced04-af81-4bc9-b56f-e63b92a1ad29)
@@ -183,10 +183,10 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 + Xem lịch sử đơn hàng, theo dõi trạng thái đơn hàng.
 + Quản lý địa chỉ giao hàng.
 + Đặt lại mật khẩu.
-+ <a name = "2.2.2.4"></a>
+  <a name = "2.2.2.4"></a>
 #### 2.2.2.4. Tương tác và đánh giá sản phẩm:
 + Viết đánh giá, xếp hạng sản phẩm.
-+ <a name = "2.2.2.5"></a>
+  <a name = "2.2.2.5"></a>
 #### 2.2.2.5. Các chức năng khác:
 + Đăng ký/hủy thông báo.
 + Chia sẻ sản phẩm trên mạng xã hội.
