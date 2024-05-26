@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Flatsome Aloha','report-msgid-bugs-to'=>'','pot-creation-date'=>'2024-05-25 15:17+0000','po-revision-date'=>'2024-05-25 15:17+0000','last-translator'=>'','language-team'=>'Slovak','language'=>'sk_SK','plural-forms'=>'nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : 2;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.9; wp-6.5.3','x-domain'=>'flatsome','messages'=>[]];
