@@ -29,6 +29,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 
 # Dự án: Aloha-WordPress
+![Screenshot (615)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/7abe0462-f925-425f-b22c-075298798394)
 
 
 #### Mô tả ngắn về dự án: Aloha là một website thương mại điện tử mã nguồn mở:
@@ -37,6 +38,8 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 ## Giao diện: 
 ### Giao diện Admin(CMS WordPress): 
+![Screenshot (620)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/c3cfc591-8381-48ae-b557-6e8c312f7c72)
+
 ##### Cập nhật: Nơi thông báo những bản cập nhật mới bao gồm gói cập nhật WordPress, Giao diện, Plugin.
 ##### Bài viết: Quản lý toàn bộ bài viết. Tại đây bạn có thể thêm, bớt chuyên mục và bài viết. Bài viết là những nội dung đăng tải để người xem vào đọc, như là bài viết bạn đang xem đây.
 ##### Thư viện: Nơi quản lý hình ảnh, video trên website.
@@ -49,6 +52,16 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 
 ### Giao diện người dùng: 
+### Trang tài khoản
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/24f5644e-38b6-41ec-bca3-e2eb4442845f)
+### Trang tìm kiếm sản phẩm
+![Screenshot (618)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/90e4fe39-7a29-44f2-8d55-84a0a2a399d9)
+
+### Trang sản phẩm
+![Screenshot (616)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/462d42c5-6fff-4422-861c-6a1ec9a05139)
+
+### Trang thanh toán
+![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/be6bb56e-a635-43db-83af-79c105415ff5)
 
 
 ## Chức năng: 
