@@ -57,7 +57,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 #### Trang tài khoản
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/24f5644e-38b6-41ec-bca3-e2eb4442845f)
-#### Trang tìm sản phẩm
+#### Trang sản phẩm
 ![Screenshot (618)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/90e4fe39-7a29-44f2-8d55-84a0a2a399d9)
 
 #### Trang chi tiết sản phẩm
