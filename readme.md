@@ -64,7 +64,8 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ![Screenshot (616)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/462d42c5-6fff-4422-861c-6a1ec9a05139)
 
 #### Trang thanh toán
-![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/be6bb56e-a635-43db-83af-79c105415ff5)
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f652cead-641f-4512-8513-b2f5096efda0)
+
 
 
 ## Chức năng: 
@@ -89,9 +90,11 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ### User: 
 #### Tìm kiếm sản phẩm:
 + Tìm kiếm sản phẩm theo từ khóa.
+  
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/d470c69e-cb8c-41c0-836a-10798fe8cc36)
 
 + Lọc sản phẩm theo khoảng giá.
+  
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f6822aef-953d-4107-a42d-961932d5e10b)
 
 + Xem chi tiết sản phẩm, ảnh, mô tả.
@@ -101,12 +104,18 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 + Chức năng mua hàng nhanh thay vì phải truy cập qua trang giỏ hàng.
 + Xem tổng giá trị đơn hàng, phí giao hàng.
+  
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/848c936b-a694-48d6-bad1-f7cb1657efc1)
 
 
 + Phương thức thanh toán (Thanh toán khi nhận hàng).
+  
+  ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/b34e5a21-051b-4c95-9128-ed7957ad36b3)
+
+
 + Điền thông tin giao hàng và thanh toán.
-![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/537a4626-dbed-41e5-a501-dcf1d810bfb3)
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/a9a28b80-f60c-493e-a14e-953cd1eefc91)
+
 
 #### Quản lý tài khoản cá nhân:
 + Tạo, đăng nhập, cập nhật thông tin tài khoản.
