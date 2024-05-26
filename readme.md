@@ -1,7 +1,58 @@
-# WordPress
-# Giới thiệu Wordpress
+## ***Mục lục***
 
-## Wordpress là gì?
+[1. Giới thiệu Wordpress](#1)
+
+- [1.1. Wordpress là gì?](#1.1)
+
+- [1.2. Các đặc điểm nổi bật của Wordpress](#1.2)
+
+[2. Bắt đầu dự án ](#2)
+
+ - [2.1. Giao diện](#2.1)
+   
+   [2.1.1. Giao diện Admin(CMS WordPress)](#2.1.1)
+   
+   [2.1.2. Giao diện người dùng](#2.1.2)
+
+ - [2.2. Chức năng](#2.2)
+
+   - [2.2.1.Admin ](#2.2.1)
+      [2.2.1.1. Quản lý nội dung:](#2.2.1.1)
+    
+      [2.2.1.2.Quản lý người dùng](#2.2.1.2)
+    
+     [2.2.1.3.Quản lý giao diện](#2.2.1.3)
+    
+       [2.2.1.4.Cài đặt và quản lý plugin](#2.2.1.4)
+    
+       [2.2.1.5.Quản lý cài đặt tổng thể](#2.2.1.5)
+
+
+   - [2.2.2. User ](#2.2.2)
+     
+     [2.2.2.1. Tìm kiếm sản phẩm](#2.2.2.1)
+   
+      [2.2.2.2. Quản lý giỏ hàng và thanh toán](#2.2.2.2)
+
+      [2.2.2.3.  Quản lý tài khoản cá nhân](#2.2.2.3)
+
+      [2.2.2.4. Tương tác và đánh giá sản phẩm](#2.2.2.4)
+
+      [2.2.2.5. Các chức năng khác](#2.2.2.5)
+
+ [3. Cài đặt ](#3)
+ 
+[4. Sử dung ](#4)
+
+ ---
+
+<a name = "1"></a>
+
+
+# WordPress
+# 1. Giới thiệu Wordpress
+
+## 1.1. Wordpress là gì?
 WordPress là một phần mềm nguồn mở (Open Source Software) được viết bằng ngôn ngữ lập trình website PHP (Hypertext Preprocessor) và sử dụng hệ quản trị cơ sở dữ liệu MySQL.
 
 WordPress xử lý bằng ngôn ngữ PHP để hỗ trợ tạo blog cá nhân, và nó được rất nhiều người sử dụng ủng hộ về tính dễ sử dụng, nhiều tính năng hữu ích. Qua thời gian, số lượng người sử dụng tăng lên, các cộng tác viên là những lập trình viên cũng tham gia đông đảo để phát triển mã nguồn WordPress có thêm những tính năng tuyệt vời.
@@ -9,7 +60,7 @@ WordPress xử lý bằng ngôn ngữ PHP để hỗ trợ tạo blog cá nhân,
 Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất trên internet. Nó cho phép bạn dễ dàng cài đặt những blog phức tạp và các website trên nền tảng lưu trữ MySQL với quá trình xử lý sử dụng PHP. Wordpress đã cho thấy được áp dụng một cách đáng kinh ngạc và là một sự lựa chọn tuyệt với cho việc dựng các website và chạy một cách nhanh chóng.
 
 
-## Các đặc điểm nổi bật của Wordpress
+## 1.2. Các đặc điểm nổi bật của Wordpress
 - Dễ sử dụng: WordPress được phát triển nhằm phục vụ đối tượng người dùng phổ thông, không có nhiều kiến thức về lập trình website nâng cao. Các thao tác trong WordPress rất đơn giản, giao diện quản trị trực quan giúp bạn có thể nắm rõ cơ cấu quản lý một website WordPress trong thời gian ngắn.
 
 - Cộng đồng hỗ trợ đông đảo: Là một mã nguồn CMS mở phổ biến nhất thế giới, điều này cũng có nghĩa là bạn sẽ được cộng đồng người sử dụng WordPress hỗ trợ bạn các khó khăn gặp phải trong quá trình sử dụng.
@@ -27,7 +78,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 - Có thể làm nhiều loại Website: Dùng WordPress không có nghĩa là bạn chỉ có thể làm blog cá nhân, mà bạn có thể biến website mình thành một trang bán hàng, một website giới thiệu công ty, một tờ tạp chí online bằng việc sử dụng kết hợp các theme và plugin với nhau.
 
 
-# Bắt Đầu
+# 2. Bắt đầu dự án
 # Dự án: Aloha-WordPress
 ![Screenshot (615)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/7abe0462-f925-425f-b22c-075298798394)
 
@@ -36,8 +87,8 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 #### Theme: Flatsome.
 #### Plugin: Woocommerce và một số Plug-in thông dụng khác
 
-## Giao diện: 
-### Giao diện Admin(CMS WordPress): 
+## 2.1. Giao diện: 
+### 2.1.1. Giao diện Admin(CMS WordPress): 
 ![Screenshot (620)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/c3cfc591-8381-48ae-b557-6e8c312f7c72)
 
 ##### Cập nhật: Nơi thông báo những bản cập nhật mới bao gồm gói cập nhật WordPress, Giao diện, Plugin.
@@ -51,7 +102,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ##### Cài đặt: Cài đặt tổng quan cho toàn bộ website.
 
 
-### Giao diện người dùng: 
+### 2.1.2. Giao diện người dùng: 
 #### Trang chủ
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/704b4a88-13d7-4eb3-af50-b48f1241dfa2)
 
@@ -68,27 +119,27 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 
 
-## Chức năng: 
-### Admin: 
-#### Quản lý nội dung:
+## 2.2. Chức năng: 
+### 2.2.1. Admin: 
+#### 2.2.1.1. Quản lý nội dung:
 + Tạo, chỉnh sửa, xóa bài viết, trang, danh mục, thẻ tags.
 + Quản lý phương tiện như hình ảnh, video, tệp đính kèm.
-#### Quản lý người dùng:
+#### 2.2.1.2.Quản lý người dùng:
 + Thêm, chỉnh sửa, xóa các tài khoản người dùng.
 + Gán các vai trò và quyền hạn khác nhau (admin, editor, author, contributor, subscriber).
-#### Quản lý giao diện:
+#### 2.2.1.3.Quản lý giao diện:
 + Cài đặt, kích hoạt, tùy chỉnh các giao diện (themes).
 + Quản lý các widget, menu, header, footer.
-#### Cài đặt và quản lý plugin:
+#### 2.2.1.4.Cài đặt và quản lý plugin:
 + Tìm kiếm, cài đặt, cập nhật, vô hiệu hóa các plugin.
 + Cấu hình các tùy chọn và thiết lập của plugin.
-#### Quản lý cài đặt tổng thể:
+#### 2.2.1.5.Quản lý cài đặt tổng thể:
 + Thay đổi các thiết lập chung của website như tên, địa chỉ, múi giờ, v.v.
 + Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
 
 
-### User: 
-#### Tìm kiếm sản phẩm:
+### 2.2.2 User: 
+#### 2.2.2.1. Tìm kiếm sản phẩm:
 + Tìm kiếm sản phẩm theo từ khóa.
   
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/d470c69e-cb8c-41c0-836a-10798fe8cc36)
@@ -98,7 +149,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f6822aef-953d-4107-a42d-961932d5e10b)
 
 + Xem chi tiết sản phẩm, ảnh, mô tả.
-#### Quản lý giỏ hàng và thanh toán:
+#### 2.2.2.2. Quản lý giỏ hàng và thanh toán:
 + Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/cd0ced04-af81-4bc9-b56f-e63b92a1ad29)
 
@@ -117,34 +168,34 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/a9a28b80-f60c-493e-a14e-953cd1eefc91)
 
 
-#### Quản lý tài khoản cá nhân:
+#### 2.2.2.3.  Quản lý tài khoản cá nhân:
 + Tạo, đăng nhập, cập nhật thông tin tài khoản.
 + Xem lịch sử đơn hàng, theo dõi trạng thái đơn hàng.
 + Quản lý địa chỉ giao hàng.
 + Đặt lại mật khẩu.
-#### Tương tác và đánh giá sản phẩm:
+#### 2.2.2.4. Tương tác và đánh giá sản phẩm:
 + Viết đánh giá, xếp hạng sản phẩm.
-#### Các chức năng khác:
+#### 2.2.2.5. Các chức năng khác:
 + Đăng ký/hủy thông báo.
 + Chia sẻ sản phẩm trên mạng xã hội.
 
 
 
-## Cài Đặt
+## 3. Cài Đặt
 Cách tải :
 ```
 git clone https://github.com/ADELA-04/aloha-wordpress.git
 ```
 
-## Sử Dụng
+## 4. Sử Dụng
 
 Mục đích sử dụng cho mục đích cá nhân học tập.
 
-## Các Tiện Ích
+### 4.1. Các Tiện Ích
 
 Project bao gồm tất cả các phần học thuật về website mã nguồn mở
 
-## Contributing
+### 4.2. Contributing
 
 Hướng dẫn về cách đóng góp vào dự án của bạn và hướng dẫn cách tạo pull request.
 ```
@@ -159,12 +210,12 @@ cd aloha-wordpress
 git pull origin main
 ```
 
-## Tác Giả
+### 4.3. Tác Giả
 
 - Tên Tác Giả : Đỗ Thị Thơm
 - Địa Chỉ Gmail : dothom07082004@gmail.com
 
-## Giấy Phép
+### Giấy Phép
 
 Không có giấy phép!
 
