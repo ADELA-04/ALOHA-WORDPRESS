@@ -73,13 +73,13 @@ Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
 ### User: 
 #### Tìm kiếm sản phẩm:
 Tìm kiếm sản phẩm theo từ khóa.
-Lọc và sắp xếp sản phẩm theo khoảng giá.
+Lọc sản phẩm theo khoảng giá.
 Xem chi tiết sản phẩm, ảnh, mô tả.
 #### Quản lý giỏ hàng và thanh toán:
 Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
-Mua hàng nhanh
+Chức năng mua hàng nhanh
 Xem tổng giá trị đơn hàng, phí giao hàng.
-Chọn phương thức thanh toán (ví điện tử, thẻ tín dụng, COD).
+Chọn phương thức thanh toán (COD).
 Điền thông tin giao hàng và thanh toán.
 #### Quản lý tài khoản cá nhân:
 Tạo, đăng nhập, cập nhật thông tin tài khoản.
@@ -88,7 +88,6 @@ Quản lý địa chỉ giao hàng.
 Đặt lại mật khẩu.
 #### Tương tác và đánh giá sản phẩm:
 Viết đánh giá, xếp hạng sản phẩm.
-Đặt câu hỏi, bình luận về sản phẩm.
 Theo dõi các sản phẩm yêu thích.
 #### Các chức năng khác:
 Áp dụng mã giảm giá, phiếu quà tặng.
