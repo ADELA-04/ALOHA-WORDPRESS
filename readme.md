@@ -10,9 +10,9 @@
 
  - [2.1. Giao diện](#2.1)
    
-   [2.1.1. Giao diện Admin(CMS WordPress)](#2.1.1)
+    - [2.1.1. Giao diện Admin(CMS WordPress)](#2.1.1)
    
-   [2.1.2. Giao diện người dùng](#2.1.2)
+    - [2.1.2. Giao diện người dùng](#2.1.2)
 
  - [2.2. Chức năng](#2.2)
 
