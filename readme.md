@@ -93,30 +93,30 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ### 2.1.1. Giao diện Admin(CMS WordPress): 
 ![Screenshot (620)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/c3cfc591-8381-48ae-b557-6e8c312f7c72)
 
-##### Cập nhật: Nơi thông báo những bản cập nhật mới bao gồm gói cập nhật WordPress, Giao diện, Plugin.
-##### Bài viết: Quản lý toàn bộ bài viết. Tại đây bạn có thể thêm, bớt chuyên mục và bài viết. Bài viết là những nội dung đăng tải để người xem vào đọc, như là bài viết bạn đang xem đây.
-##### Thư viện: Nơi quản lý hình ảnh, video trên website.
-##### Trang: Quản lý các trang của website. Trang là nơi bạn đăng những thông tin cố định, xem như là sườn của website WordPress. Chẳng hạn như: Trang chủ, Giới thiệu, Liên hệ, Điều khoản sử dụng,…
-##### Phản hồi: Những phản hồi, bình luận của người xem về bài viết.
-##### Giao diện: Quản lý giao diện của website. Trong đây bạn có thể cài đặt giao diện mới, quản lý cũng như tuỳ biến giao diện đang sử dụng.
-##### Plugin: Quản lý và cài đặt các plugin (tính năng) cho website wordpress.
-##### Thành viên: Quản lý, thêm bớt, chỉnh sửa các thành viên. Tuỳ vào mục đích của website, bạn có thể cho phép thành viên tự đăng ký và chỉnh sửa thông tin.
-##### Cài đặt: Cài đặt tổng quan cho toàn bộ website.
+##### - Cập nhật: Nơi thông báo những bản cập nhật mới bao gồm gói cập nhật WordPress, Giao diện, Plugin.
+##### - Bài viết: Quản lý toàn bộ bài viết. Tại đây bạn có thể thêm, bớt chuyên mục và bài viết. Bài viết là những nội dung đăng tải để người xem vào đọc, như là bài viết bạn đang xem đây.
+##### - Thư viện: Nơi quản lý hình ảnh, video trên website.
+##### - Trang: Quản lý các trang của website. Trang là nơi bạn đăng những thông tin cố định, xem như là sườn của website WordPress. Chẳng hạn như: Trang chủ, Giới thiệu, Liên hệ, Điều khoản sử dụng,…
+##### - Phản hồi: Những phản hồi, bình luận của người xem về bài viết.
+##### - Giao diện: Quản lý giao diện của website. Trong đây bạn có thể cài đặt giao diện mới, quản lý cũng như tuỳ biến giao diện đang sử dụng.
+##### - Plugin: Quản lý và cài đặt các plugin (tính năng) cho website wordpress.
+##### - Thành viên: Quản lý, thêm bớt, chỉnh sửa các thành viên. Tuỳ vào mục đích của website, bạn có thể cho phép thành viên tự đăng ký và chỉnh sửa thông tin.
+##### - Cài đặt: Cài đặt tổng quan cho toàn bộ website.
 
 <a name = "2.1.2"></a>
 ### 2.1.2. Giao diện người dùng: 
-#### Trang chủ
+#### - Trang chủ
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/704b4a88-13d7-4eb3-af50-b48f1241dfa2)
 
-#### Trang tài khoản
+#### - Trang tài khoản
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/24f5644e-38b6-41ec-bca3-e2eb4442845f)
-#### Trang sản phẩm
+#### - Trang sản phẩm
 ![Screenshot (618)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/90e4fe39-7a29-44f2-8d55-84a0a2a399d9)
 
-#### Trang chi tiết sản phẩm
+#### - Trang chi tiết sản phẩm
 ![Screenshot (616)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/462d42c5-6fff-4422-861c-6a1ec9a05139)
 
-#### Trang thanh toán
+#### - Trang thanh toán
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f652cead-641f-4512-8513-b2f5096efda0)
 
 
