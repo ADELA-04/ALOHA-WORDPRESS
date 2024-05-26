@@ -70,54 +70,54 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 ## Chức năng: 
 ### Admin: 
 #### Quản lý nội dung:
-Tạo, chỉnh sửa, xóa bài viết, trang, danh mục, thẻ tags.
-Quản lý phương tiện như hình ảnh, video, tệp đính kèm.
++ Tạo, chỉnh sửa, xóa bài viết, trang, danh mục, thẻ tags.
++ Quản lý phương tiện như hình ảnh, video, tệp đính kèm.
 #### Quản lý người dùng:
-Thêm, chỉnh sửa, xóa các tài khoản người dùng.
-Gán các vai trò và quyền hạn khác nhau (admin, editor, author, contributor, subscriber).
++ Thêm, chỉnh sửa, xóa các tài khoản người dùng.
++ Gán các vai trò và quyền hạn khác nhau (admin, editor, author, contributor, subscriber).
 #### Quản lý giao diện:
-Cài đặt, kích hoạt, tùy chỉnh các giao diện (themes).
-Quản lý các widget, menu, header, footer.
++ Cài đặt, kích hoạt, tùy chỉnh các giao diện (themes).
++ Quản lý các widget, menu, header, footer.
 #### Cài đặt và quản lý plugin:
-Tìm kiếm, cài đặt, cập nhật, vô hiệu hóa các plugin.
-Cấu hình các tùy chọn và thiết lập của plugin.
++ Tìm kiếm, cài đặt, cập nhật, vô hiệu hóa các plugin.
++ Cấu hình các tùy chọn và thiết lập của plugin.
 #### Quản lý cài đặt tổng thể:
-Thay đổi các thiết lập chung của website như tên, địa chỉ, múi giờ, v.v.
-Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
++ Thay đổi các thiết lập chung của website như tên, địa chỉ, múi giờ, v.v.
++ Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
 
 
 ### User: 
 #### Tìm kiếm sản phẩm:
-Tìm kiếm sản phẩm theo từ khóa.
++ Tìm kiếm sản phẩm theo từ khóa.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/d470c69e-cb8c-41c0-836a-10798fe8cc36)
 
-Lọc sản phẩm theo khoảng giá.
++ Lọc sản phẩm theo khoảng giá.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f6822aef-953d-4107-a42d-961932d5e10b)
 
-Xem chi tiết sản phẩm, ảnh, mô tả.
++ Xem chi tiết sản phẩm, ảnh, mô tả.
 #### Quản lý giỏ hàng và thanh toán:
-Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
++ Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/cd0ced04-af81-4bc9-b56f-e63b92a1ad29)
 
-Chức năng mua hàng nhanh thay vì phải truy cập qua trang giỏ hàng.
-Xem tổng giá trị đơn hàng, phí giao hàng.
++ Chức năng mua hàng nhanh thay vì phải truy cập qua trang giỏ hàng.
++ Xem tổng giá trị đơn hàng, phí giao hàng.
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/848c936b-a694-48d6-bad1-f7cb1657efc1)
 
 
-Chọn phương thức thanh toán (Thanh toán khi nhận hàng).
-Điền thông tin giao hàng và thanh toán.
++ Phương thức thanh toán (Thanh toán khi nhận hàng).
++ Điền thông tin giao hàng và thanh toán.
 ![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/537a4626-dbed-41e5-a501-dcf1d810bfb3)
 
 #### Quản lý tài khoản cá nhân:
-Tạo, đăng nhập, cập nhật thông tin tài khoản.
-Xem lịch sử đơn hàng, theo dõi trạng thái đơn hàng.
-Quản lý địa chỉ giao hàng.
-Đặt lại mật khẩu.
++ Tạo, đăng nhập, cập nhật thông tin tài khoản.
++ Xem lịch sử đơn hàng, theo dõi trạng thái đơn hàng.
++ Quản lý địa chỉ giao hàng.
++ Đặt lại mật khẩu.
 #### Tương tác và đánh giá sản phẩm:
-Viết đánh giá, xếp hạng sản phẩm.
++ Viết đánh giá, xếp hạng sản phẩm.
 #### Các chức năng khác:
-Đăng ký/hủy thông báo.
-Chia sẻ sản phẩm trên mạng xã hội.
++ Đăng ký/hủy thông báo.
++ Chia sẻ sản phẩm trên mạng xã hội.
 
 ## Bắt Đầu
 
