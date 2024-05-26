@@ -52,15 +52,18 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 
 
 ### Giao diện người dùng: 
-### Trang tài khoản
+#### Trang chủ
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/704b4a88-13d7-4eb3-af50-b48f1241dfa2)
+
+#### Trang tài khoản
 ![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/24f5644e-38b6-41ec-bca3-e2eb4442845f)
-### Trang tìm kiếm sản phẩm
+#### Trang tìm sản phẩm
 ![Screenshot (618)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/90e4fe39-7a29-44f2-8d55-84a0a2a399d9)
 
-### Trang sản phẩm
+#### Trang chi tiết sản phẩm
 ![Screenshot (616)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/462d42c5-6fff-4422-861c-6a1ec9a05139)
 
-### Trang thanh toán
+#### Trang thanh toán
 ![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/be6bb56e-a635-43db-83af-79c105415ff5)
 
 
@@ -86,14 +89,25 @@ Cấu hình các tùy chọn bảo mật, SEO, hiệu suất.
 ### User: 
 #### Tìm kiếm sản phẩm:
 Tìm kiếm sản phẩm theo từ khóa.
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/d470c69e-cb8c-41c0-836a-10798fe8cc36)
+
 Lọc sản phẩm theo khoảng giá.
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/f6822aef-953d-4107-a42d-961932d5e10b)
+
 Xem chi tiết sản phẩm, ảnh, mô tả.
 #### Quản lý giỏ hàng và thanh toán:
 Thêm, xóa, cập nhật số lượng sản phẩm trong giỏ hàng.
-Chức năng mua hàng nhanh
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/cd0ced04-af81-4bc9-b56f-e63b92a1ad29)
+
+Chức năng mua hàng nhanh thay vì phải truy cập qua trang giỏ hàng.
 Xem tổng giá trị đơn hàng, phí giao hàng.
-Chọn phương thức thanh toán (COD).
+![image](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/848c936b-a694-48d6-bad1-f7cb1657efc1)
+
+
+Chọn phương thức thanh toán (Thanh toán khi nhận hàng).
 Điền thông tin giao hàng và thanh toán.
+![Screenshot (617)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/537a4626-dbed-41e5-a501-dcf1d810bfb3)
+
 #### Quản lý tài khoản cá nhân:
 Tạo, đăng nhập, cập nhật thông tin tài khoản.
 Xem lịch sử đơn hàng, theo dõi trạng thái đơn hàng.
@@ -101,10 +115,8 @@ Quản lý địa chỉ giao hàng.
 Đặt lại mật khẩu.
 #### Tương tác và đánh giá sản phẩm:
 Viết đánh giá, xếp hạng sản phẩm.
-Theo dõi các sản phẩm yêu thích.
 #### Các chức năng khác:
-Áp dụng mã giảm giá, phiếu quà tặng.
-Đăng ký/hủy đăng ký bản tin, thông báo.
+Đăng ký/hủy thông báo.
 Chia sẻ sản phẩm trên mạng xã hội.
 
 ## Bắt Đầu
