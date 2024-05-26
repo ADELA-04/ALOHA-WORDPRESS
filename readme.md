@@ -27,7 +27,7 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 - Có thể làm nhiều loại Website: Dùng WordPress không có nghĩa là bạn chỉ có thể làm blog cá nhân, mà bạn có thể biến website mình thành một trang bán hàng, một website giới thiệu công ty, một tờ tạp chí online bằng việc sử dụng kết hợp các theme và plugin với nhau.
 
 
-
+# Bắt Đầu
 # Dự án: Aloha-WordPress
 ![Screenshot (615)](https://github.com/ADELA-04/Aloha-WordPress/assets/169277562/7abe0462-f925-425f-b22c-075298798394)
 
@@ -128,9 +128,9 @@ Hiện tại, Wordpress là CMS (Content management system) phổ biến nhất 
 + Đăng ký/hủy thông báo.
 + Chia sẻ sản phẩm trên mạng xã hội.
 
-## Bắt Đầu
 
-### Cài Đặt
+
+## Cài Đặt
 Cách tải :
 ```
 git clone https://github.com/ADELA-04/aloha-wordpress.git
